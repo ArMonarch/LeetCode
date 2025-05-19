@@ -18,7 +18,7 @@ LeetCode Problems' Solutions
 
 ### LeetCode Rust
 - [X] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
-- [ ] [Remove Element](https://leetcode.com/problems/remove-element)
+- [X] [Remove Element](https://leetcode.com/problems/remove-element)
 - [X] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
 - [ ] [Majority Element](https://leetcode.com/problems/majority-element)
 - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
