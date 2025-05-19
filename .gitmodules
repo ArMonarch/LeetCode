@@ -1,0 +1,3 @@
+[submodule "Leetcode_Typescript"]
+	path = Leetcode_Typescript
+	url = https://github.com/ArMonarch/Leetcode_Typescript
