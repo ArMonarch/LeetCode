@@ -1,3 +1,6 @@
 [submodule "Leetcode_Typescript"]
 	path = Leetcode_Typescript
 	url = https://github.com/ArMonarch/Leetcode_Typescript
+[submodule "Leetcode_Python"]
+	path = Leetcode_Python
+	url = https://github.com/ArMonarch/Leetcode_Python
