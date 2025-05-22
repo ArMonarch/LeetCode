@@ -6,7 +6,7 @@ LeetCode Problems' Solutions
 ## Array / String | Difficulty - Easy
 
 ### LeetCode Python
-- [ ] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
+- [X] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
 - [ ] [Remove Element](https://leetcode.com/problems/remove-element)
 - [ ] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
 - [ ] [Majority Element](https://leetcode.com/problems/majority-element)
