@@ -7,3 +7,6 @@
 [submodule "Leetcode_Rust"]
 	path = Leetcode_Rust
 	url = https://github.com/ArMonarch/Leetcode_Rust
+[submodule "Leetcode_Zig"]
+	path = Leetcode_Zig
+	url = https://github.com/ArMonarch/Leetcode_Zig.git
