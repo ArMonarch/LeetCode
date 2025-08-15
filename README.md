@@ -28,7 +28,7 @@ LeetCode Problems' Solutions
 - [X] [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)
 
 ### LeetCode Zig
-- [ ] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
+- [X] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
 - [ ] [Remove Element](https://leetcode.com/problems/remove-element)
 - [ ] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
 - [ ] [Majority Element](https://leetcode.com/problems/majority-element)
