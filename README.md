@@ -30,7 +30,7 @@ LeetCode Problems' Solutions
 ### LeetCode Zig
 - [X] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
 - [X] [Remove Element](https://leetcode.com/problems/remove-element)
-- [ ] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
+- [X] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
 - [ ] [Majority Element](https://leetcode.com/problems/majority-element)
 - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
 - [ ] [Roman to Integer](https://leetcode.com/problems/roman-to-integer)
