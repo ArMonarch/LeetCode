@@ -77,6 +77,9 @@ mod longest_common_prefix;
 // LeetCode Problems - 28. [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)
 mod find_first_occurance;
 
+// LeetCode Problem [Contains Duplicates](https://leetcode.com/problems/contains-duplicate)
+mod contains_duplicates;
+
 fn main() {
     println!("LeetCode Problems Solution!");
 }
